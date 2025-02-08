@@ -1,11 +1,14 @@
 ## Hi there 👋
+My name is Angelica Okorom and I am a engineer in the defense industry.
+- 🌱 I’m currently learning programming with Python and C++ for mod/sim and game design
+
 
 <!--
 **angokoro/angokoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ECSR150CCBP335986
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
